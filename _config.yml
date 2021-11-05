@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hannes Voss / Site Title"
+title                    : "Hannes Voss"
 title_separator          : "-"
 name                     : &name "Hannes Voss"
 description              : &description "personal description"
