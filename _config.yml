@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hannes Voss"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Science Student"
+  location         : "Halstenbek, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Hannes-Voss" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
