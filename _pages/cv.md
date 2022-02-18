@@ -24,7 +24,12 @@ Work experience
 * 2017 - 2018: Android Developer
   * FUNKE Digital GmbH, Berlin
   * Duties included: Development of an ePaper application that hosts more than 12 newspapers and more than 50 magazines
-  
+
+Project experience
+======
+* Android app for unannounced meal detection
+* Data exploration tool for glucose and insulin delivery data
+
 Skills
 ======
 * Android development (Java, Kotlin)
