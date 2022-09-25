@@ -11,12 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Computer Science, University of Applied Sciences Berlin, 2018
-* M.S. in Computer Science, University of Applied Sciences Hamburg, 2022 (expected)
 * Ph.D. in Computer Science, University Medical Center Hamburg-Eppendorf (UKE), 2025 (planned)
+* M.Sc. in Computer Science, University of Applied Sciences Hamburg, 2022
+* B.Sc. in Applied Computer Science, University of Applied Sciences Berlin, 2018
 
 Work experience
 ======
+* 2022 - present: Research scientist
+  * University Medical Center Hamburg-Eppendorf
+  * Duties included: Development of research infrastructure
+
+* 2020 - 2021: Android Developer
+  * SINOVO health solutions GmbH, Bad Vilbel
+  * Duties included: Development of diabetes management apps
+
 * 2018 - 2020: Android Developer
   * freenet.de GmbH, Hamburg
   * Duties included: Development of apps like 'freenet FLEX', 'freenet Mail' and 'klarmobil.de'
