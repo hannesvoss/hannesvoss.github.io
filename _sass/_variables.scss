@@ -42,8 +42,9 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : Latin Modern Roman,Georgia,Cambria,Times New Roman,Times,serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$latex                      : Latin Modern Roman,Georgia,Cambria,Times New Roman,Times,serif;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
