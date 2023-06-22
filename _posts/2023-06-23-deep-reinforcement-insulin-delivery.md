@@ -8,13 +8,13 @@ tags:
   - artificial pancreas
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+An insightful exploration of deep reinforcement learning for insulin delivery in type 1 diabetes, showcasing its promising potential.
 
-Headings are cool
+Introduction
 ======
 
-You can have many headings
+Background
 ======
 
-Aren't headings cool?
+References
 ------
