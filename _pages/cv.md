@@ -52,6 +52,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+No publications yet.
   
 Talks
 ======
@@ -59,11 +61,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+No talks held yet.
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+No teaching experience yet.
