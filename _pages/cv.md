@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computational Neuroscience, University Medical Center Hamburg-Eppendorf (UKE), 2025 (planned)
 * M.Sc. in Computer Science, University of Applied Sciences Hamburg, 2022
 * B.Sc. in Applied Computer Science, University of Applied Sciences Berlin, 2018
 
